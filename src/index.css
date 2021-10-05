@@ -21,3 +21,17 @@ code {
 .profile-pic{
   background-image: linear-gradient(to right, #e2ccc7, #ffffff);
 }
+
+.h1 {
+  color: #8a341e;
+}
+
+.medium{ 
+  background-color: #a76756;
+}
+
+.highlight {
+  background-color: #e2ccc7;
+}
+
+
