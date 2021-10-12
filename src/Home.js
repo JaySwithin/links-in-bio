@@ -24,7 +24,7 @@ export default function Home() {
 				</a>
 			</div>
 
-			<div className="text-center">
+			<div className="text-center mt-6">
 				<a className="btn btn-outline-primary mr-2" href="https://gmail.com"><i className="bx bxl-twitter text-4xl px-3"></i></a>
 				<a className="btn btn-outline-primary ml-2" href="https://github.com/JaySwithin"><i className="bx bxl-github text-4xl px-3"></i></a>
 			</div>
