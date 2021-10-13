@@ -13,18 +13,21 @@ export default function Home() {
 			</div>
 
 			<div className="ml-5 mr-5 lg:ml-60 lg:mr-60 mt-4">
-				<a href="https://swithinokyere.netlify.app">
-					<button className="h1 w-full h-14 mb-4 font-semibold highlight border-2 border-white" type="button">Check Out My Portfolio</button>
+				<a href="https://swithinokyere.netlify.app" target="_blank" rel="noreferrer">
+					<button className="h1 w-full h-14 mb-4 font-semibold highlight border-2 border-white" type="button">🌍 Check Out My Portfolio</button>
 				</a>
-				<a href="https://www.buymeacoffee.com/swithin">
-					<button className="h1 w-full h-14 mb-4 font-semibold highlight border-2 border-white" type="button">Buy Me A Coffee</button>
+				<a href="https://www.linkedin.com/in/swithin-annor-okyere/" target="_blank" rel="noreferrer">
+					<button className="h1 w-full h-14 mb-4 font-semibold highlight border-2 border-white" type="button">👫 Connect On LinkedIn</button>
 				</a>
-				<a href="mailto:jayswithin@gmail.com">
-					<button className="h1 w-full h-14 mb-4 font-semibold highlight border-2 border-white" type="button">Contact Me</button>
+				<a href="https://www.buymeacoffee.com/swithin" target="_blank" rel="noreferrer">
+					<button className="h1 w-full h-14 mb-4 font-semibold highlight border-2 border-white" type="button">☕️ Buy Me A Coffee</button>
+				</a>
+				<a href="mailto:jayswithin@gmail.com" target="_blank" rel="noreferrer">
+					<button className="h1 w-full h-14 mb-4 font-semibold highlight border-2 border-white" type="button">✉️ Contact Me</button>
 				</a>
 			</div>
 
-			<div className="text-center mt-6">
+			<div className="text-center mt-6 mb-24">
 				<a className="btn btn-outline-primary mr-2 rounded-md" href="https://twitter.com/Swithinnn" target="_blank" rel="noreferrer"><i className="bx bxl-twitter text-4xl px-3"></i></a>
 				<a className="btn btn-outline-primary ml-2 rounded-md" href="https://github.com/JaySwithin" target="_blank" rel="noreferrer"><i className="bx bxl-github text-4xl px-3"></i></a>
 			</div>
