@@ -32,5 +32,6 @@ export default function Home() {
 				<a className="btn btn-outline-primary ml-2 rounded-md" href="https://github.com/JaySwithin" target="_blank" rel="noreferrer"><i className="bx bxl-github text-4xl px-3"></i></a>
 			</div>
 		</div>
-	)
+		)
+
 }
