@@ -13,3 +13,6 @@ An alternative to Linktree. This project provides you with a template to fully c
   - Run the command to install the deps.
     ```
     $ npm install 
+    
+
+  - Run ``$ npm run start`` to start the development server on port 3000
